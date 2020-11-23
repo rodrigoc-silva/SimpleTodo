@@ -29,7 +29,7 @@ No additional features have been implemented
 
 ## Video Walkthrough 
 
-<img src='walkthrough.gif' title=''Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
